@@ -1,0 +1,23 @@
+C:\Users\darin\Desktop\ThriveFitness\gen\com\ThriveFitness\R.java \
+ : C:\Users\darin\Desktop\ThriveFitness\res\drawable\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-hdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-hdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-ldpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-ldpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-mdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-mdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-xhdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\res\layout\main.xml \
+C:\Users\darin\Desktop\ThriveFitness\res\values\strings.xml \
+C:\Users\darin\Desktop\ThriveFitness\res\xml\config.xml \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-hdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-ldpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-mdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-xhdpi\icon.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\darin\Desktop\ThriveFitness\bin\AndroidManifest.xml \
